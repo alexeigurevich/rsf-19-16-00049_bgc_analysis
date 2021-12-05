@@ -1,0 +1,27 @@
+INPUT_BASE = # SPECIFY! 
+OUTPUT_BASE = # SPECIFY!
+
+BLAST_DB = "./blast-db/nr" # Adjust if needed!
+TAXIDS = "./bacterial.ids" # Adjust if needed!
+
+directories, files = glob_wildcards(INPUT_BASE + "/{dir}/{file}.fasta")
+
+rule all:
+    input:
+        expand(OUTPUT_BASE + "/{dir}/{file}.xml", zip, dir=directories, file=files)
+
+rule blastp:
+    input:
+        INPUT_BASE + "/{dir}/{file}.fasta",
+    output:
+        OUTPUT_BASE + "/{dir}/{file}.xml"
+    shell:
+        """
+
+        cur_out_dir=$( dirname {output} )
+        if [ ! -d $cur_out_dir ]; then
+          mkdir -p $cur_out_dir
+        fi
+       
+        blastp -query {input} -db {BLAST_DB} -out {output} -evalue 0.001 -outfmt 5 -taxidlist {TAXIDS} -num_alignments 50 -num_threads 1 -task blastp-fast
+        """
