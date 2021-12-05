@@ -1,0 +1,21 @@
+QueryIdx	HitIdx	Query Description	Query Cover	Per. Ident	Score (bits)	E-value	Match Description	Accession Link
+2	1	ctg161_11_9031_9919_pos LAP biosynthetic-additional	66.44%	59.09%	226	1.35383e-67	serine hydrolase [Pseudolabrys taiwanensis] >gb|AXK83156.1|	https://www.ncbi.nlm.nih.gov/protein/WP_115693535?report=genbank
+2	2	ctg161_11_9031_9919_pos LAP biosynthetic-additional	66.44%	58.08%	225	3.11722e-67	beta-lactamase family protein [Pseudolabrys sp.]	https://www.ncbi.nlm.nih.gov/protein/MBX6330179?report=genbank
+2	3	ctg161_11_9031_9919_pos LAP biosynthetic-additional	63.05%	52.69%	210	2.82667e-61	serine hydrolase [Steroidobacter soli]	https://www.ncbi.nlm.nih.gov/protein/WP_129781061?report=genbank
+3	1	ctg20_49_48560_49730_neg lanthipeptide biosynthetic-additional	99.49%	85.53%	690	0.0	mandelate racemase [Pseudolabrys sp.]	https://www.ncbi.nlm.nih.gov/protein/MSO67318?report=genbank
+3	2	ctg20_49_48560_49730_neg lanthipeptide biosynthetic-additional	99.23%	85.75%	689	0.0	mandelate racemase [Hyphomicrobiales bacterium]	https://www.ncbi.nlm.nih.gov/protein/MBI2714930?report=genbank
+3	3	ctg20_49_48560_49730_neg lanthipeptide biosynthetic-additional	100.00%	84.83%	688	0.0	mandelate racemase [Hyphomicrobiales bacterium]	https://www.ncbi.nlm.nih.gov/protein/MBI3702722?report=genbank
+4	1	ctg20_54_53226_54921_pos lanthipeptide biosynthetic-additional	99.82%	89.70%	1027	0.0	thiamine pyrophosphate-binding protein [Pseudolabrys sp.]	https://www.ncbi.nlm.nih.gov/protein/MSO67315?report=genbank
+4	2	ctg20_54_53226_54921_pos lanthipeptide biosynthetic-additional	99.11%	85.33%	1002	0.0	thiamine pyrophosphate-binding protein [Pseudolabrys sp.]	https://www.ncbi.nlm.nih.gov/protein/MBV8792204?report=genbank
+4	3	ctg20_54_53226_54921_pos lanthipeptide biosynthetic-additional	99.11%	85.15%	999	0.0	thiamine pyrophosphate-binding protein [Pseudolabrys sp.]	https://www.ncbi.nlm.nih.gov/protein/MBV9260107?report=genbank
+5	1	ctg66_23_28475_29492_neg bacteriocin biosynthetic-additional	100.00%	80.77%	588	0.0	ketoacyl-ACP synthase III [Verrucomicrobia bacterium]	https://www.ncbi.nlm.nih.gov/protein/MBN8708178?report=genbank
+5	2	ctg66_23_28475_29492_neg bacteriocin biosynthetic-additional	100.00%	80.18%	584	0.0	ketoacyl-ACP synthase III [Terrimicrobium sacchariphilum]	https://www.ncbi.nlm.nih.gov/protein/WP_075080901?report=genbank
+5	3	ctg66_23_28475_29492_neg bacteriocin biosynthetic-additional	100.00%	81.07%	572	0.0	3-oxoacyl-ACP synthase [Spartobacteria bacterium LR76]	https://www.ncbi.nlm.nih.gov/protein/PTX95975?report=genbank
+6	1	ctg20_44_43212_43365_neg lanthipeptide biosynthetic-additional	80.00%	65.85%	51	3.31422e-07	hypothetical protein [Hyphomicrobiales bacterium]	https://www.ncbi.nlm.nih.gov/protein/MBO0717901?report=genbank
+7	1	ctg1020_19_15173_15647_pos bacteriocin biosynthetic-additional	98.09%	68.83%	221	9.49302e-70	hypothetical protein DMF78_00090 [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYQ56062?report=genbank
+8	1	ctg1020_18_14587_15145_pos bacteriocin biosynthetic-additional	100.00%	78.92%	291	6.90229e-97	3-oxoacyl-ACP reductase [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYQ56063?report=genbank
+8	2	ctg1020_18_14587_15145_pos bacteriocin biosynthetic-additional	99.46%	60.64%	221	2.50294e-69	oxidoreductase [Thermosporothrix sp. COM3]	https://www.ncbi.nlm.nih.gov/protein/BBH86748?report=genbank
+8	3	ctg1020_18_14587_15145_pos bacteriocin biosynthetic-additional	99.46%	61.70%	220	5.02937e-69	SDR family oxidoreductase [Ktedonospora formicarum]	https://www.ncbi.nlm.nih.gov/protein/WP_220191918?report=genbank
+9	1	ctg20_48_47930_48362_neg lanthipeptide biosynthetic-additional	89.51%	55.71%	146	6.59456e-40	glycosyltransferase family 2 protein [Pseudolabrys	https://www.ncbi.nlm.nih.gov/protein/WP_115691860?report=genbank
+9	2	ctg20_48_47930_48362_neg lanthipeptide biosynthetic-additional	74.83%	62.96%	127	6.31172e-34	glycosyltransferase family 2 protein [Hyphomicrobiales	https://www.ncbi.nlm.nih.gov/protein/MBI3705302?report=genbank
+9	3	ctg20_48_47930_48362_neg lanthipeptide biosynthetic-additional	74.83%	61.11%	129	1.93679e-33	glycosyltransferase family 2 protein [Hyphomicrobiales	https://www.ncbi.nlm.nih.gov/protein/MBI2716596?report=genbank

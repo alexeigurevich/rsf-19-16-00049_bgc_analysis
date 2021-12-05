@@ -1,0 +1,18 @@
+QueryIdx	HitIdx	Query Description	Query Cover	Per. Ident	Score (bits)	E-value	Match Description	Accession Link
+1	1	ctg317_40_32484_33531_pos LAP biosynthetic-additional	56.32%	59.09%	225	1.11176e-66	serine hydrolase [Pseudolabrys taiwanensis] >gb|AXK83156.1|	https://www.ncbi.nlm.nih.gov/protein/WP_115693535?report=genbank
+1	2	ctg317_40_32484_33531_pos LAP biosynthetic-additional	56.32%	58.08%	224	3.79627e-66	beta-lactamase family protein [Pseudolabrys sp.]	https://www.ncbi.nlm.nih.gov/protein/MBX6330179?report=genbank
+1	3	ctg317_40_32484_33531_pos LAP biosynthetic-additional	54.60%	56.25%	211	7.76679e-61	beta-lactamase family protein [Alphaproteobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/MBM3567120?report=genbank
+2	1	ctg543_34_31590_32436_pos bacteriocin biosynthetic-additional	94.66%	52.06%	296	4.22713e-97	class I SAM-dependent methyltransferase [Bryobacterales	https://www.ncbi.nlm.nih.gov/protein/MBV8843417?report=genbank
+2	2	ctg543_34_31590_32436_pos bacteriocin biosynthetic-additional	96.09%	51.82%	278	8.47393e-90	methyltransferase domain-containing protein [Gemmatimonadetes bacterium]	https://www.ncbi.nlm.nih.gov/protein/MBI3790947?report=genbank
+3	1	ctg405_29_27478_28891_pos lassopeptide biosynthetic-additional	100.00%	97.87%	930	0.0	amidase [Candidatus Rokubacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYM70673?report=genbank
+3	2	ctg405_29_27478_28891_pos lassopeptide biosynthetic-additional	100.00%	89.15%	832	0.0	amidase [Candidatus Rokubacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYN75794?report=genbank
+3	3	ctg405_29_27478_28891_pos lassopeptide biosynthetic-additional	100.00%	89.36%	827	0.0	amidase [Candidatus Rokubacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYM91450?report=genbank
+4	1	ctg2064_8_4568_5576_pos bacteriocin biosynthetic-additional	78.51%	80.23%	443	1.36384e-151	FAD-containing oxidoreductase, partial [Betaproteobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/TMG95985?report=genbank
+4	2	ctg2064_8_4568_5576_pos bacteriocin biosynthetic-additional	78.51%	69.58%	393	1.07927e-129	FAD-containing oxidoreductase [Betaproteobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/TMH32678?report=genbank
+4	3	ctg2064_8_4568_5576_pos bacteriocin biosynthetic-additional	78.21%	68.70%	383	1.16335e-127	FAD-containing oxidoreductase [Betaproteobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/TMH21406?report=genbank
+5	1	ctg405_11_10620_12213_neg lassopeptide biosynthetic-additional	100.00%	98.30%	1030	0.0	gamma-glutamyltransferase [Candidatus Rokubacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYM77080?report=genbank
+5	2	ctg405_11_10620_12213_neg lassopeptide biosynthetic-additional	99.06%	84.95%	811	0.0	gamma-glutamyltransferase [Candidatus Rokubacteria bacterium 13_1_40CM_2_68_8]	https://www.ncbi.nlm.nih.gov/protein/OLD37269?report=genbank
+5	3	ctg405_11_10620_12213_neg lassopeptide biosynthetic-additional	99.06%	83.43%	804	0.0	gamma-glutamyltransferase [Candidatus Rokubacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYN75772?report=genbank
+6	1	ctg405_21_19037_19325_neg lassopeptide biosynthetic-additional	100.00%	93.68%	170	6.6723e-53	PqqD family protein [Candidatus Rokubacteria	https://www.ncbi.nlm.nih.gov/protein/PYM78161?report=genbank
+6	2	ctg405_21_19037_19325_neg lassopeptide biosynthetic-additional	100.00%	51.58%	97	6.44094e-24	PqqD family protein [Nitrospirae bacterium]	https://www.ncbi.nlm.nih.gov/protein/TAJ26292?report=genbank
+6	3	ctg405_21_19037_19325_neg lassopeptide biosynthetic-additional	94.74%	51.11%	92	2.33187e-22	PqqD family protein [Candidatus Rokubacteria	https://www.ncbi.nlm.nih.gov/protein/MBI3454385?report=genbank

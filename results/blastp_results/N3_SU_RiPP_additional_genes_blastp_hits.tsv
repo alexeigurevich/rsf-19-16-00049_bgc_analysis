@@ -1,0 +1,16 @@
+QueryIdx	HitIdx	Query Description	Query Cover	Per. Ident	Score (bits)	E-value	Match Description	Accession Link
+1	1	ctg25_39_44531_45227_neg lassopeptide biosynthetic-additional	100.00%	88.31%	426	7.83329e-150	7-carboxy-7-deazaguanine synthase [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYU04815?report=genbank
+1	2	ctg25_39_44531_45227_neg lassopeptide biosynthetic-additional	100.00%	80.95%	397	1.95405e-138	7-carboxy-7-deazaguanine synthase [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT88303?report=genbank
+1	3	ctg25_39_44531_45227_neg lassopeptide biosynthetic-additional	99.57%	82.25%	397	2.48004e-138	7-carboxy-7-deazaguanine synthase [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT81852?report=genbank
+2	1	ctg82_53_54727_56764_neg lassopeptide biosynthetic-additional	100.00%	80.68%	1116	0.0	hypothetical protein DMG36_14175 [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT92594?report=genbank
+2	2	ctg82_53_54727_56764_neg lassopeptide biosynthetic-additional	99.85%	66.57%	936	0.0	prolyl oligopeptidase family serine peptidase	https://www.ncbi.nlm.nih.gov/protein/MBZ5666475?report=genbank
+2	3	ctg82_53_54727_56764_neg lassopeptide biosynthetic-additional	100.00%	65.83%	916	0.0	prolyl oligopeptidase family serine peptidase	https://www.ncbi.nlm.nih.gov/protein/MBZ5688951?report=genbank
+3	1	ctg25_36_42040_42346_neg lassopeptide biosynthetic-additional	100.00%	73.27%	163	3.41339e-50	PqqD family protein [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYX62319?report=genbank
+3	2	ctg25_36_42040_42346_neg lassopeptide biosynthetic-additional	99.01%	68.00%	148	2.93594e-44	PqqD family protein [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT53792?report=genbank
+3	3	ctg25_36_42040_42346_neg lassopeptide biosynthetic-additional	100.00%	64.36%	145	6.36067e-43	PqqD family protein [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT88308?report=genbank
+5	1	ctg25_29_34265_35870_pos lassopeptide biosynthetic-additional	97.38%	65.72%	704	0.0	serine hydrolase [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT90614?report=genbank
+5	2	ctg25_29_34265_35870_pos lassopeptide biosynthetic-additional	97.38%	65.53%	704	0.0	serine hydrolase [Acidobacteria bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYT66232?report=genbank
+5	3	ctg25_29_34265_35870_pos lassopeptide biosynthetic-additional	92.13%	68.07%	702	0.0	hypothetical protein AUH13_30395 [Acidobacteria bacterium	https://www.ncbi.nlm.nih.gov/protein/OLB25746?report=genbank
+6	1	ctg138_25_19525_21472_neg bacteriocin biosynthetic-additional	99.07%	55.97%	717	0.0	B12-binding domain-containing radical SAM protein	https://www.ncbi.nlm.nih.gov/protein/PYJ30118?report=genbank
+6	2	ctg138_25_19525_21472_neg bacteriocin biosynthetic-additional	98.77%	55.83%	709	0.0	B12-binding domain-containing radical SAM protein	https://www.ncbi.nlm.nih.gov/protein/PYI87769?report=genbank
+6	3	ctg138_25_19525_21472_neg bacteriocin biosynthetic-additional	98.77%	55.12%	701	0.0	hypothetical protein DME72_01120 [Verrucomicrobia bacterium]	https://www.ncbi.nlm.nih.gov/protein/PYJ75016?report=genbank
